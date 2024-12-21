@@ -7,7 +7,7 @@ Web Developer | Tech Enthusiastic
 - 🤔 I’m looking for Internship
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sandru-dev)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandru-dev/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
